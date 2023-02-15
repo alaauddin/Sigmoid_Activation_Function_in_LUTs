@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 14 12:00:53 2023
+# Process ID: 14424
+# Current directory: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.sim/sim_1/behav/xsim/xsim.dir/Sigmoid_in_LUTs_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/User/ACTIVATION -notrace
+couldn't read file "C:/Users/User/ACTIVATION": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Feb 14 12:00:54 2023...

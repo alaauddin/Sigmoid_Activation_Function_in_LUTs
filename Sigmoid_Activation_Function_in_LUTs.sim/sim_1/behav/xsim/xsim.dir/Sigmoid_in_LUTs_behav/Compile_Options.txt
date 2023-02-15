@@ -1,0 +1,1 @@
+-wto "cd59e31723824792a0428056f5c09321" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Sigmoid_in_LUTs_behav" "xil_defaultlib.Sigmoid_in_LUTs" "xil_defaultlib.glbl" -log "elaborate.log" 

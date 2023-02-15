@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 14 12:02:18 2023
+# Process ID: 14004
+# Current directory: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.runs/impl_1
+# Command line: vivado.exe -log Sigmoid_in_LUTs.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Sigmoid_in_LUTs.tcl -notrace
+# Log file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.runs/impl_1/Sigmoid_in_LUTs.vdi
+# Journal file: C:/Users/User/ACTIVATION FUNCTION/Sigmoid_Activation_Function_in_LUTs/Sigmoid_Activation_Function_in_LUTs.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Sigmoid_in_LUTs.tcl -notrace
